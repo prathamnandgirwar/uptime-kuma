@@ -7,7 +7,7 @@ app = Flask(__name__)
 def trigger_call():
     account_sid = '<acc-sid>'
     auth_token = '<acc-auth>'
-    client = Client(account_sid, auth_token)
+    client = Client(AC6716340bb8cb65e8db8e61a94bb17a1c, 5deb30089e3d3339768cde347c47f48f)
 
     # List of numbers to call
     numbers_to_call = ['<number>', '<number>']
