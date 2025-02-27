@@ -11,7 +11,7 @@ Uptime Kuma is an easy-to-use self-hosted monitoring tool.
 
 
 
-# $${\color{Red} \textbf {Deploy Youtube Clone on Cloud using Jenkins - DevOps Project!}}$$
+# $${\color{Red} \textbf {Deploy Uptime-kuma on Cloud using Jenkins - DevOps Project!}}$$
 
 
 ## $${\color {red} \textbf {Phase 1: Initial Setup and Deployment}}$$
